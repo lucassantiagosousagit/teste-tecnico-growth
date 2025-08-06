@@ -1,6 +1,6 @@
 # Teste Técnico – Análise de Dados: Vendas e Marketing
 
-## 📖 Introdução
+## 📖 INTRODUÇÃO
 
 Este repositório reúne todas as etapas do teste técnico de **Analista de Dados** aplicado ao cenário de vendas e marketing. Tem como objetivo demonstrar:
 
@@ -17,7 +17,7 @@ Este repositório reúne todas as etapas do teste técnico de **Analista de Dado
 - Carregano as tabelas em DataFrames para facilitar a manipulação dos dados
 - Criado os dataframes (`clientes`,`campanhas`,`interacoes`,`produtos` e `vendas`)
 
-## 🔍 Descrição das Análises
+## 🔍 DESCRIÇÃO DAS ANÁLISES
 
 ## 2. Análise de Vendas
 
@@ -109,7 +109,7 @@ Este repositório reúne todas as etapas do teste técnico de **Analista de Dado
 - Agrupar soma de `valor_total` por cidade, selecionar maior.
 - Ordenar decrescentemente, pegar Top 5 e plotar barras horizontais laranja com rótulo R$… – cidade.
 
-## . 🚀 Métricas Adicionais
+## . 🚀 MÉTRICAS ADICIONAIS
 
 ### 1. Repeat Purchase Rate (RPR)
 
@@ -147,4 +147,8 @@ Este repositório reúne todas as etapas do teste técnico de **Analista de Dado
 - Utilizar as colunas das tabelas para verificar a relação das colunas com o valor total, para identificar métricas automáticas.
 - Gerar o relatório em HTML com as visualizações.
 
+## 📊 RELATÓRIOS GERADOS
 
+### 1. Foi disponibilizado os arquivos `Relatório Growth.pptx` e `Relatório Growth.pdf` com os principais valores e gráficos com as métricas e insights.
+### 2. Foi disponibilizado o arquivo `Teste Técnico Growth.ipynb` com todo o script para geração dos gráficos.
+### 2. Foi disponibilizado o arquivo `eda_geral_vendas.html`
